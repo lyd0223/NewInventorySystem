@@ -1,0 +1,21 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-InventorySystem.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\lyd02\Documents\Unreal Projects\InventoryPlugin\Intermediate\Build\Win64\x64\InventoryPluginEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.InclOrderUnreal5_3.h.obj"
+"C:\Users\lyd02\Documents\Unreal Projects\InventoryPlugin\Plugins\InventorySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventorySystem\Module.InventorySystem.cpp.obj"
+"C:\Users\lyd02\Documents\Unreal Projects\InventoryPlugin\Plugins\InventorySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventorySystem\InventorySystem.cpp.obj"
+"C:\Users\lyd02\Documents\Unreal Projects\InventoryPlugin\Plugins\InventorySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventorySystem\InventoryComponent.cpp.obj"
+"C:\Users\lyd02\Documents\Unreal Projects\InventoryPlugin\Plugins\InventorySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventorySystem\ItemObject.cpp.obj"
+"C:\Users\lyd02\Documents\Unreal Projects\InventoryPlugin\Plugins\InventorySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventorySystem\ItemSlotBase.cpp.obj"
+"C:\Users\lyd02\Documents\Unreal Projects\InventoryPlugin\Plugins\InventorySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventorySystem\ItemSlotContainerBase.cpp.obj"
+"C:\Users\lyd02\Documents\Unreal Projects\InventoryPlugin\Plugins\InventorySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventorySystem\ItemSlotContainerComponent.cpp.obj"
+"C:\Users\lyd02\Documents\Unreal Projects\InventoryPlugin\Plugins\InventorySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventorySystem\ItemActor.cpp.obj"
+"C:\Users\lyd02\Documents\Unreal Projects\InventoryPlugin\Plugins\InventorySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventorySystem\GridItemSlotContainer.cpp.obj"
+"C:\Users\lyd02\Documents\Unreal Projects\InventoryPlugin\Plugins\InventorySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventorySystem\SingleItemSlotContainer.cpp.obj"
+"C:\Users\lyd02\Documents\Unreal Projects\InventoryPlugin\Plugins\InventorySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventorySystem\Default.rc2.res"
+/OUT:"C:\Users\lyd02\Documents\Unreal Projects\InventoryPlugin\Plugins\InventorySystem\Intermediate\Build\Win64\x64\UnrealEditor\Development\InventorySystem\UnrealEditor-InventorySystem.lib"

@@ -1,0 +1,27 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.InventorySystem.cpp.obj": [
+			"GridItemSlotContainer.gen.cpp.obj",
+			"InventoryComponent.gen.cpp.obj",
+			"InventoryEnums.gen.cpp.obj",
+			"InventorySystem.init.gen.cpp.obj",
+			"ItemActor.gen.cpp.obj",
+			"ItemObject.gen.cpp.obj",
+			"ItemSlotBase.gen.cpp.obj",
+			"ItemSlotContainerBase.gen.cpp.obj",
+			"ItemSlotContainerComponent.gen.cpp.obj",
+			"SingleItemSlotContainer.gen.cpp.obj",
+			"PerModuleInline.gen.cpp.obj",
+			"InventorySystem.cpp.obj",
+			"ItemActor.cpp.obj",
+			"InventoryComponent.cpp.obj",
+			"ItemObject.cpp.obj",
+			"ItemSlotBase.cpp.obj",
+			"ItemSlotContainerBase.cpp.obj",
+			"ItemSlotContainerComponent.cpp.obj",
+			"GridItemSlotContainer.cpp.obj",
+			"SingleItemSlotContainer.cpp.obj"
+		]
+	}
+}
